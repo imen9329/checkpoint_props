@@ -1,0 +1,14 @@
+body,
+html {
+    background-size: cover;
+    background: radial-gradient(#fff, #e0b3b3);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+.App {
+    text-align: center;
+    margin: 20px auto;
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+}
